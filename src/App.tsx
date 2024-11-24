@@ -1,4 +1,4 @@
-import React from "react";
+// import React from "react";
 // import { AmplifyAuthenticator, AmplifySignOut } from "@aws-amplify/ui-react";
 
 function App() {
