@@ -1,5 +1,5 @@
-import React from "react";
-import { AmplifyAuthenticator, AmplifySignOut } from "@aws-amplify/ui-react";
+// import React from "react";
+// import { AmplifyAuthenticator, AmplifySignOut } from "@aws-amplify/ui-react";
 
 // function App() {
 //   console.log("hello consolo 2")
@@ -12,7 +12,7 @@ import { AmplifyAuthenticator, AmplifySignOut } from "@aws-amplify/ui-react";
 //   );
 // }
 
-// export default App;
+// export default App;   
 
 
 
